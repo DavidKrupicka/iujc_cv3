@@ -1,4 +1,4 @@
-# iujc_cv2
+# iujc_cv3
 Třetí cvičení předmětu IUJC (10.10.2016)
 
 ##Příklad 1 
